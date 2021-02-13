@@ -1,4 +1,4 @@
-Scorey
+Candidate_CodingCommunity_Contributions_RankingPrediction_Algorithm
 - Scraping, aggregating and assessing technical ability of a candidate based on publicly available sources
 
 Problem Statement
