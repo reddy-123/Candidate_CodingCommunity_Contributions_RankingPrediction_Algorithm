@@ -5,7 +5,7 @@ Problem Statement
 The current interview scenario is biased towards "candidate's performance during the 2 hour interview" and doesn't take other factors into account such as candidate's competitive coding abilities, contribution towards developer community and so on.
 
 Approach
-Scorey tries to solve this problem by aggregating publicly available data from various websites such as
+Candidate_CodingCommunity_Contributions_RankingPrediction_Algorithm tries to solve this problem by aggregating publicly available data from various websites such as
 
 * Github
 * StackOverflow
